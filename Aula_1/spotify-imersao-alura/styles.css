@@ -1,0 +1,52 @@
+body {
+    background-color: #000;
+}
+
+h1 {
+    color: #fff;
+}
+
+.sidebar {
+    position: fixed; /* Ficar fixo na sua posição*/
+    top: 0; /*para ficar grudado no top*/
+    left: 0;
+    bottom: 0;
+    padding: 12px; /*vamos colocar so um valor*/
+    width: 300px; /*largura*/
+
+}
+
+.sidebar__navigation {
+    background-color: #121212;
+    border-radius: 8px;
+    padding: 16px 0 0 16px;  /*ordem do relaogio, cima, direita, baixo esquerda*/
+}
+
+.sidebar__navigation .logo {
+    background: #121212;
+    display: flex;
+    border-radius: 8px;   
+    padding: 16px 0 0 16px;  /*ordem do relaogio, cima, direita, baixo esquerda*/
+}
+/*Colocamos a classe e a tag do que queremos ajustar*/
+.logo img {
+    width: 80px; /*largura*/
+}
+
+.sidebar nav ul {
+    margin-top: 20px;
+    padding: 0 20px 10px 20px;    
+}
+
+.sidebar ul li {
+    padding: 10px 0;
+
+}
+
+.sidebar nav ul li a {
+    color: #b3b3b3;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px; /*tamanho do texto reflete para o icone*/
+    font-family: "DM Sans", sans-serif;
+}
