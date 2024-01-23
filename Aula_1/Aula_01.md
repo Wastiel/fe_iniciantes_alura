@@ -237,4 +237,3 @@
 - Pedirmos para ele tirar o CSS do arquivo HTML
 - podemos pedir o reset CSS
 - Luri, IA da Alura
-- 
