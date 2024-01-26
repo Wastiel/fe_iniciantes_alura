@@ -1,6 +1,6 @@
 # Imersão Front-End Alura
 
-# Guia para o inicio da carreira Front-End
+## Guia para o inicio da carreira Front-End
 **Objetivo Geral:** Construção de uma página simulando o layout do Spotify.
 
 
