@@ -1,6 +1,7 @@
 # Imersão Front-End Alura
 
 **Objetivo Geral:** Construção de uma página simulando o layout do Spotify.
+
 **Guia para o inicio da carreira Front-End
 
 ## Aula 01: Revisão HTML, CSS e JS na Prática
